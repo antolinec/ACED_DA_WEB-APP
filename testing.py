@@ -139,7 +139,7 @@ def get_text_card(title, target_df, col_name, subset_col):
 
 
 # 2. APP TITLE & REFRESH BUTTON
-st.title("📊 WEB-APP TITLE")
+st.title("Department of Agriculture")
 if st.button("Refresh Data"):
     st.cache_data.clear()
     st.rerun()
