@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import io
 
-# Set page layout to wide for a nice dashboard look
+
 st.set_page_config(layout="wide")
 
 # 1. Load Data from Google Sheets
